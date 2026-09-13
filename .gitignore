@@ -1,0 +1,9 @@
+# 编译产物
+*.o
+*.out
+hello
+bug
+app
+
+# 临时文件
+list.txt
