@@ -1,6 +1,7 @@
 # 编译产物
 *.o
 *.out
+*.elf
 hello
 bug
 app
